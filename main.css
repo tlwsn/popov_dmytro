@@ -1,0 +1,25 @@
+img {
+    border: 0px;
+    float: right;
+    margin: 8px 12px;
+}
+
+table {
+    width: 99%;
+    height: 99%;
+    position: fixed;
+}
+
+td {
+    border: 1px solid;
+}
+
+body {
+    font-family: "Gloria";
+    background-color: pink;
+    color: purple;
+}
+
+.vitalik {
+    width: 20%;
+}
